@@ -1,0 +1,8 @@
+float64[] numbers
+---
+float64 mean
+float64 min
+float64 max
+float64 sum
+bool success
+string message
